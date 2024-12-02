@@ -59,7 +59,9 @@ const int var = 10;
 
 [This is a link](https://google.com)  
 or  
-[License File](/LICENSE)
+[License File](/LICENSE)  
+or   
+[Compile commands](#Compile-commands)  
 
 
 > block quote
