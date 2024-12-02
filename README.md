@@ -24,7 +24,7 @@ gcc -Wall pcf8574.c -o pcf8574
 sudo ./pcf8574
 ```
 
-The method used here is called controlled by ***sysfs***.  This was used here because linux command ```hostnamectl``` showed the version of linux to be bookworm where only the lgpio library is available.  Source: https://www.waveshare.com/wiki/Libraries_Installation_for_RPi. 
+The method used here is called controlled by ***sysfs***.  This was used here because linux command `hostnamectl` showed the version of linux to be bookworm where only the lgpio library is available.  Source: https://www.waveshare.com/wiki/Libraries_Installation_for_RPi. 
 
 
 
@@ -47,8 +47,13 @@ I like the task list section<br>
 
 **bold**  
 *italics*  
-***both***
-~~crossed off~~
+***both***  
+~~crossed off~~  
 <mark>highlight</mark>  
 
+
+<code class="language-c++">
+const variable ="Here is some code.";
+/// and a comment
+</code>
 [^3]:https://www.youtube.com/watch?v=MuNXmh0Vu8A
