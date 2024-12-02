@@ -1,4 +1,6 @@
 # pcf8574
+[^1]
+[^1]: https://www.waveshare.com/wiki/Raspberry_Pi_Tutorial_Series:_I2C
 ## I2C communication with raspberry pi
 
 Commands to use once the i2c interface is started<br>
