@@ -66,6 +66,18 @@ or
 >
 >> Nested
 
+***
+
 >> ` ![Google Logo](link to image file) `  
+
+
+list nesting requires 4 spaces or tab
+
+- [ ] This is the first item in the todo list
+    - [ ] Checking if this nests.
+        - unorded item.
+            1. ordered item.
+
+
 
 [^3]:https://www.youtube.com/watch?v=MuNXmh0Vu8A
