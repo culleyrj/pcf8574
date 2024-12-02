@@ -1,5 +1,5 @@
 # pcf8574
-Source Content can be found here:[^1]
+Source Content can be found here:[^1][^2]
 [^1]: https://www.waveshare.com/wiki/Raspberry_Pi_Tutorial_Series:_I2C
 [^2]: https://www.waveshare.com/wiki/Pioneer600#OLED_Sample_Demos
 ## I2C communication with raspberry pi
@@ -38,5 +38,7 @@ https://www.markdownguide.org/extended-syntax/
 
 I like the task list section<br>
 - [x] Do PCF8574 contection code.
-- [ ] Allow for control C to clean up the code.
+- [x] Allow for control C to clean up the code.
+- [ ] Order AHT20 temperature sensor.
+- [ ] Interface the AHT20 temperature sensor into this design or a new file.
 
