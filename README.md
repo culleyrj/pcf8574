@@ -39,7 +39,9 @@ https://www.markdownguide.org/extended-syntax/
 I like the task list section<br>
 - [x] Do PCF8574 contection code.
 - [x] Allow for control C to clean up the code.[^3]
-[^3]:https://www.youtube.com/watch?v=MuNXmh0Vu8A
 - [ ] Order AHT20 temperature sensor.
 - [ ] Interface the AHT20 temperature sensor into this design or a new file.
 
+
+
+[^3]:https://www.youtube.com/watch?v=MuNXmh0Vu8A
