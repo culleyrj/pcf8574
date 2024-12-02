@@ -4,9 +4,7 @@ Source Content can be found here:[^1][^2]
 [^2]: https://www.waveshare.com/wiki/Pioneer600#OLED_Sample_Demos
 ## I2C communication with raspberry pi
 
-Commands to use once the i2c interface is started
-
-
+Commands to use once the i2c interface is started   
 ```
 i2cdetect -y 1
 ```
