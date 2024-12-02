@@ -20,3 +20,20 @@ sudo ./pcf8574
 ```
 
 The method used here is called contolled by sysfs.  This was used here because linux command ```hostnamectl``` showed the version of linux to be bookworm where only the lgpio library is available.  Source: https://www.waveshare.com/wiki/Libraries_Installation_for_RPi. 
+
+
+
+
+
+
+
+
+
+
+Source for markdown:
+https://www.markdownguide.org/extended-syntax/
+
+I like the task list section<br>
+- [x] Do PCF8574 contection code.
+- [ ] Allow for control C to clean up the code.
+
