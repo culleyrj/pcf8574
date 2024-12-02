@@ -24,7 +24,7 @@ gcc -Wall pcf8574.c -o pcf8574
 sudo ./pcf8574
 ```
 
-The method used here is called controlled by ***sysfs***.  This was used here because linux command `hostnamectl` showed the version of linux to be bookworm where only the lgpio library is available.  Source: https://www.waveshare.com/wiki/Libraries_Installation_for_RPi. 
+The method used here is called controlled by ***sysfs***.  Unfortunately it has been depricated in recent linux kernels.  This was used here because linux command `hostnamectl` showed the version of linux to be bookworm where only the lgpio library is available.  Source: https://www.waveshare.com/wiki/Libraries_Installation_for_RPi. 
 
 
 
@@ -84,9 +84,12 @@ list nesting requires 4 spaces or tab
 
 Tables can be done this way:
 
-| Col 1 | Col 2 |
-|:---   |:-----:|
-|  this | works |
+| C/C++        | Python   |
+|:---          |:-----:   |
+|  sysfs       | Gpiozero |
+|  libgpiod    | RPi.GPIO |
+|  pigpio      |          |
+|  Processing3 |          |
 
 
 
