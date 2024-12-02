@@ -59,7 +59,7 @@ const int var = 10;
 
 [This is a link](https://google.com)  
 or  
-[Go here](/Compile commands)
+[Compile command](/"Compile commands")
 
 
 
