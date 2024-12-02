@@ -52,8 +52,4 @@ I like the task list section<br>
 <mark>highlight</mark>  
 
 
-<code class="language-c++">
-const variable ="Here is some code.";
-/// and a comment
-</code>
 [^3]:https://www.youtube.com/watch?v=MuNXmh0Vu8A
