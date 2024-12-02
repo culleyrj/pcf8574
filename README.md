@@ -70,7 +70,7 @@ or
 
 ***
 
->> ` ![Google Logo](link to image file) `  
+![Pi pins used for GPIO](Sysfs_pins_used_for_GPIO.JPG)   
 
 
 list nesting requires 4 spaces or tab
