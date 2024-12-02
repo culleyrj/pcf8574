@@ -80,4 +80,12 @@ list nesting requires 4 spaces or tab
 
 
 
+Tables can be done this way:
+
+| Col 1 | Col 2 |
+|:---   |:-----:|
+|  this | works |
+
+
+
 [^3]:https://www.youtube.com/watch?v=MuNXmh0Vu8A
