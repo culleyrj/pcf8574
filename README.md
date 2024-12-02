@@ -57,5 +57,10 @@ I like the task list section<br>
 const int var = 10;
 ```
 
+[This is a link](https://google.com)  
+or  
+[Go here](/page)
+
+
 
 [^3]:https://www.youtube.com/watch?v=MuNXmh0Vu8A
