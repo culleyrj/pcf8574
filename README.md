@@ -91,6 +91,9 @@ Tables can be done this way:
 |  pigpio      |          |
 |  Processing3 |          |
 
+## Reading List:  
+<https://www.thegoodpenguin.co.uk/blog/stop-using-sys-class-gpio-its-deprecated/>
+<https://github.com/sckulkarni246/ke-rpi-samples/blob/main/gpio-c-sysfs/gpio_usage_sysfs.c>
 
 
 [^3]:https://www.youtube.com/watch?v=MuNXmh0Vu8A
