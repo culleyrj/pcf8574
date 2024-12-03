@@ -94,6 +94,10 @@ Tables can be done this way:
 ## Reading List:  
 <https://www.thegoodpenguin.co.uk/blog/stop-using-sys-class-gpio-its-deprecated/>
 <https://github.com/sckulkarni246/ke-rpi-samples/blob/main/gpio-c-sysfs/gpio_usage_sysfs.c>
+<https://www.kernel.org/doc/Documentation/devicetree/bindings/leds/leds-gpio.txt>  
+<https://www.kernel.org/doc/Documentation/devicetree/bindings/input/gpio-keys.txt>  
+<https://www.kernel.org/doc/html/v4.17/driver-api/gpio/drivers-on-gpio.html>
+<https://www.kernel.org/doc/html/v4.17/driver-api/i2c.html>
 
 
 [^3]:https://www.youtube.com/watch?v=MuNXmh0Vu8A
